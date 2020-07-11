@@ -7,3 +7,6 @@ class ProdConfig(Config):
 
 class DevConfig(Config):
     DEBUG = True
+
+
+# :fire::fire::fire:
